@@ -1,0 +1,5735 @@
+[
+  {
+    "Id": 1,
+    "Dlc": "Rebirth",
+    "Name": "Magdalene",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Have 7 or more Red Heart containers at one time",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 2,
+    "Dlc": "Rebirth",
+    "Name": "Cain",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Hold 55 coins at one time",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 3,
+    "Dlc": "Rebirth",
+    "Name": "Judas",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Defeat Satan",
+    "Requirement": "Satan",
+    "Reward": "Character"
+  },
+  {
+    "Id": 4,
+    "Dlc": "Rebirth",
+    "Name": "The Womb",
+    "Description": "Chapter 4 - The Womb unlocked.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 5,
+    "Dlc": "Rebirth",
+    "Name": "The Harbingers",
+    "Description": "The horsemen are loose.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 6,
+    "Dlc": "Rebirth",
+    "Name": "A Cube of Meat",
+    "Description": "Unlocked a new item. (Also unlocks the Ball of Bandages)",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 7,
+    "Dlc": "Rebirth",
+    "Name": "The Book of Revelations",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat a Harbinger",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 8,
+    "Dlc": "Rebirth",
+    "Name": "A Noose",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 3 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 9,
+    "Dlc": "Rebirth",
+    "Name": "The Nail",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Azazel",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 10,
+    "Dlc": "Rebirth",
+    "Name": "A Quarter",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 8 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 11,
+    "Dlc": "Rebirth",
+    "Name": "A Fetus in a Jar",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 9 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 12,
+    "Dlc": "Rebirth",
+    "Name": "A Small Rock",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Destroy 100 Tinted Rocks",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 13,
+    "Dlc": "Rebirth",
+    "Name": "Monstro's Tooth",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat chapter 1",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 14,
+    "Dlc": "Rebirth",
+    "Name": "Lil' Chubby",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat chapter 2",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 15,
+    "Dlc": "Rebirth",
+    "Name": "Loki's Horns",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Lokii",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 16,
+    "Dlc": "Rebirth",
+    "Name": "Something From The Future",
+    "Description": "New boss in the basement!",
+    "Unlock": "Beat The Basement 40 times",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 17,
+    "Dlc": "Rebirth",
+    "Name": "Something Cute",
+    "Description": "New boss in the caves!",
+    "Unlock": "Beat chapter 2 30 times",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 18,
+    "Dlc": "Rebirth",
+    "Name": "Something Sticky",
+    "Description": "New boss in the depths!",
+    "Unlock": "Beat chapter 3 20 times",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 19,
+    "Dlc": "Rebirth",
+    "Name": "A Bandage",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Make a Super Bandage Girl by picking up 4 Balls of Bandages in one run; see unlocking Super Meat Boy & Super Bandage Girl",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 20,
+    "Dlc": "Rebirth",
+    "Name": "A Cross",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Magdalene",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 21,
+    "Dlc": "Rebirth",
+    "Name": "A Bag of Pennies",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Cain",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 22,
+    "Dlc": "Rebirth",
+    "Name": "The Book of Sin",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat all 7 deadly sins",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 23,
+    "Dlc": "Rebirth",
+    "Name": "Little Gish",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Gish",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 24,
+    "Dlc": "Rebirth",
+    "Name": "Little Steven",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Steven",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 25,
+    "Dlc": "Rebirth",
+    "Name": "Little C.H.A.D.",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat C.H.A.D.",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 26,
+    "Dlc": "Rebirth",
+    "Name": "A Gamekid",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Visit 10 Arcades",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 27,
+    "Dlc": "Rebirth",
+    "Name": "A Halo",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom, Mom's Heart or It Lives using The Bible",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 28,
+    "Dlc": "Rebirth",
+    "Name": "Mr. Mega",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Destroy 10 Tinted Rocks",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 29,
+    "Dlc": "Rebirth",
+    "Name": "The D6",
+    "Description": "Isaac now holds the D6!",
+    "Unlock": "Defeat Isaac as ???",
+    "Requirement": "Isaac",
+    "Reward": "Character"
+  },
+  {
+    "Id": 30,
+    "Dlc": "Rebirth",
+    "Name": "The Scissors",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Die 100 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 31,
+    "Dlc": "Rebirth",
+    "Name": "The Parasite",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Pick up any 2 of the following items in a single run: Bob's Rotten Head, Dead Cat, Cricket's Head, Tammy's Head",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 32,
+    "Dlc": "Rebirth",
+    "Name": "???",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Defeat Mom's Heart 10 times",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 33,
+    "Dlc": "Rebirth",
+    "Name": "Everything Is Terrible!!!",
+    "Description": "The game just got harder!",
+    "Unlock": "Defeat Mom's Heart 5 times",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 34,
+    "Dlc": "Rebirth",
+    "Name": "It Lives!",
+    "Description": "Your future's past waits.",
+    "Unlock": "Defeat Mom's Heart 11 times",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 35,
+    "Dlc": "Rebirth",
+    "Name": "Mom's Contact",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Obtain three Yes Mother? items in one run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 36,
+    "Dlc": "Rebirth",
+    "Name": "The Necronomicon",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Use XIII - Death 4 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 37,
+    "Dlc": "Rebirth",
+    "Name": "Basement Boy",
+    "Description": "Beat basement without taking damage.",
+    "Unlock": "Beat chapter 1 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 38,
+    "Dlc": "Rebirth",
+    "Name": "Spelunker Boy",
+    "Description": "Beat caves without taking damage.",
+    "Unlock": "Beat chapter 2 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 39,
+    "Dlc": "Rebirth",
+    "Name": "Dark Boy",
+    "Description": "Beat depths without taking damage.",
+    "Unlock": "Beat chapter 3 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 40,
+    "Dlc": "Rebirth",
+    "Name": "Mama's Boy",
+    "Description": "Beat womb without taking damage.",
+    "Unlock": "Beat chapter 4 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 41,
+    "Dlc": "Rebirth",
+    "Name": "Golden God!",
+    "Description": "You are the best!!",
+    "Unlock": "Defeat ??? and The Lamb",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 42,
+    "Dlc": "Rebirth",
+    "Name": "Eve",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Don't pick up any hearts for 2 floors in a row",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 43,
+    "Dlc": "Rebirth",
+    "Name": "Mom's Knife",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Isaac",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 44,
+    "Dlc": "Rebirth",
+    "Name": "The Razor",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Eve",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 45,
+    "Dlc": "Rebirth",
+    "Name": "Guardian Angel",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Magdalene",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 46,
+    "Dlc": "Rebirth",
+    "Name": "A Bag of Bombs",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Cain",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 47,
+    "Dlc": "Rebirth",
+    "Name": "Demon Baby",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Azazel",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 48,
+    "Dlc": "Rebirth",
+    "Name": "Forget Me Now",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as ???",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 49,
+    "Dlc": "Rebirth",
+    "Name": "The D20",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Isaac",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 50,
+    "Dlc": "Rebirth",
+    "Name": "Celtic Cross",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Magdalene",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 51,
+    "Dlc": "Rebirth",
+    "Name": "Abel",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Cain",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 52,
+    "Dlc": "Rebirth",
+    "Name": "Curved Horn",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Judas",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 53,
+    "Dlc": "Rebirth",
+    "Name": "Sacrificial Dagger",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Eve",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 54,
+    "Dlc": "Rebirth",
+    "Name": "Bloody Lust",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Samson",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 55,
+    "Dlc": "Rebirth",
+    "Name": "Blood Penny",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Samson",
+    "Requirement": "QQQ",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 56,
+    "Dlc": "Rebirth",
+    "Name": "Blood Rights",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Samson",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 57,
+    "Dlc": "Rebirth",
+    "Name": "The Polaroid",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac 5 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 58,
+    "Dlc": "Rebirth",
+    "Name": "Dad's Key",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Pick up both Key Pieces from the Angels in one run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 59,
+    "Dlc": "Rebirth",
+    "Name": "Blue Candle",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 900 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 60,
+    "Dlc": "Rebirth",
+    "Name": "Burnt Penny",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Beans! (challenge #13)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 61,
+    "Dlc": "Rebirth",
+    "Name": "Lucky Toe",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Blow up 20 Shopkeepers",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 62,
+    "Dlc": "Rebirth",
+    "Name": "Epic Fetus",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete The Family Man (challenge #19)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 63,
+    "Dlc": "Rebirth",
+    "Name": "SMB Super Fan",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete It's in the Cards (challenge #14)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 64,
+    "Dlc": "Rebirth",
+    "Name": "Counterfeit Coin",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Play the Shell Game 100 times",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 65,
+    "Dlc": "Rebirth",
+    "Name": "Guppy's Hairball",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Become Guppy",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 66,
+    "Dlc": "Rebirth",
+    "Name": "A Forgotten Horseman",
+    "Description": "Unlocked a new boss!",
+    "Unlock": "Take 10 items from Angel Rooms",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 67,
+    "Dlc": "Rebirth",
+    "Name": "Samson",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Complete 2 floors in a row without taking damage",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 68,
+    "Dlc": "Rebirth",
+    "Name": "Something Icky",
+    "Description": "New boss in the womb!",
+    "Unlock": "Defeat Isaac 10 times",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 69,
+    "Dlc": "Rebirth",
+    "Name": "!Platinum God!",
+    "Description": "OMG!",
+    "Unlock": "Collect all non-DLC items in the game, unlock all of the secrets and endings minus The Lost and his 6 unlockable items",
+    "Requirement": "Completion",
+    "Reward": "None"
+  },
+  {
+    "Id": 70,
+    "Dlc": "Rebirth",
+    "Name": "Isaac's Head",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Isaac",
+    "Requirement": "BossRush",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 71,
+    "Dlc": "Rebirth",
+    "Name": "Maggy's Faith",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Magdalene",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 72,
+    "Dlc": "Rebirth",
+    "Name": "Judas' Tongue",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Judas",
+    "Requirement": "Satan",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 73,
+    "Dlc": "Rebirth",
+    "Name": "???'s Soul",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as ???",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 74,
+    "Dlc": "Rebirth",
+    "Name": "Samson's Lock",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Samson",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 75,
+    "Dlc": "Rebirth",
+    "Name": "Cain's Eye",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Cain",
+    "Requirement": "QQQ",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 76,
+    "Dlc": "Rebirth",
+    "Name": "Eve's Bird Foot",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Eve",
+    "Requirement": "Isaac",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 77,
+    "Dlc": "Rebirth",
+    "Name": "The Left Hand",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Pride as any character, or ??? as Judas",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 78,
+    "Dlc": "Rebirth",
+    "Name": "The Negative",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan 5 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 79,
+    "Dlc": "Rebirth",
+    "Name": "Azazel",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Make 3 deals with the Devil in one run",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 80,
+    "Dlc": "Rebirth",
+    "Name": "Lazarus",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Have 4 or more Soul Hearts at one time",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 81,
+    "Dlc": "Rebirth",
+    "Name": "Eden",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Complete chapter 4",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 82,
+    "Dlc": "Rebirth",
+    "Name": "The Lost",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Die in a Sacrifice Room while holding Missing Poster",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 83,
+    "Dlc": "Rebirth",
+    "Name": "Dead Boy",
+    "Description": "Beat Chest or Dark Room without taking damage.",
+    "Unlock": "Complete chapter 6 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 84,
+    "Dlc": "Rebirth",
+    "Name": "The Real Platinum God",
+    "Description": "111% now stop playing!",
+    "Unlock": "Collect every non-DLC item and unlock every ending.",
+    "Requirement": "Completion",
+    "Reward": "None"
+  },
+  {
+    "Id": 85,
+    "Dlc": "Rebirth",
+    "Name": "Lucky Rock",
+    "Description": "Destroy 100 rocks.",
+    "Unlock": "Destroy 100 rocks",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 86,
+    "Dlc": "Rebirth",
+    "Name": "The Cellar",
+    "Description": "Alt stage to the basement.",
+    "Unlock": "Beat all The Basement bosses (not restricted to beating bosses in The Basement)",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 87,
+    "Dlc": "Rebirth",
+    "Name": "The Catacombs",
+    "Description": "Alt stage to the caves.",
+    "Unlock": "Beat all The Caves bosses (not restricted to beating bosses in The Caves)",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 88,
+    "Dlc": "Rebirth",
+    "Name": "The Necropolis",
+    "Description": "Alt stage to the depths.",
+    "Unlock": "Beat all The Depths bosses (not restricted to beating bosses in The Depths)",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 89,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Hagalaz",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Pitch Black (challenge #1)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 90,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Jera",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete High Brow (challenge #2)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 91,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Ehwaz",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Head Trauma (challenge #3)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 92,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Dagaz",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Darkness Falls (challenge #4)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 93,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Ansuz",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete The Tank (challenge #5)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 94,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Perthro",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Solar System (challenge #6)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 95,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Berkano",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Purist (challenge #20)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 96,
+    "Dlc": "Rebirth",
+    "Name": "Rune of Algiz",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Cat Got Your Tongue (challenge #8)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 97,
+    "Dlc": "Rebirth",
+    "Name": "Chaos Card",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Demo Man (challenge #9)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 98,
+    "Dlc": "Rebirth",
+    "Name": "Credit Card",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Cursed (challenge #10)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 99,
+    "Dlc": "Rebirth",
+    "Name": "Rules Card",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Glass Cannon (challenge #11)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 100,
+    "Dlc": "Rebirth",
+    "Name": "Card Against Humanity",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete When Life Gives You Lemons (challenge #12)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 101,
+    "Dlc": "Rebirth",
+    "Name": "Swallowed Penny",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Slow Roll (challenge #15)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 102,
+    "Dlc": "Rebirth",
+    "Name": "Robo-Baby 2.0",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Computer Savvy (challenge #16)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 103,
+    "Dlc": "Rebirth",
+    "Name": "Death's Touch",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Waka Waka (challenge #17)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 104,
+    "Dlc": "Rebirth",
+    "Name": "Technology .5",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete The Host (challenge #18)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 105,
+    "Dlc": "Rebirth",
+    "Name": "Missing No.",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Lazarus",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 106,
+    "Dlc": "Rebirth",
+    "Name": "Isaac's Tears",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Isaac",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 107,
+    "Dlc": "Rebirth",
+    "Name": "Guillotine",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Judas",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 108,
+    "Dlc": "Rebirth",
+    "Name": "Judas' Shadow",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Judas",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 109,
+    "Dlc": "Rebirth",
+    "Name": "Maggy's Bow",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Magdalene",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 110,
+    "Dlc": "Rebirth",
+    "Name": "Cain's Other Eye",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Cain",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 111,
+    "Dlc": "Rebirth",
+    "Name": "Black Lipstick",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Eve",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 112,
+    "Dlc": "Rebirth",
+    "Name": "Eve's Mascara",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Eve",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 113,
+    "Dlc": "Rebirth",
+    "Name": "Fate",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as ???",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 114,
+    "Dlc": "Rebirth",
+    "Name": "???'s Only Friend",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as ???",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 115,
+    "Dlc": "Rebirth",
+    "Name": "Samson's Chains",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Samson",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 116,
+    "Dlc": "Rebirth",
+    "Name": "Lazarus' Rags",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Lazarus",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 117,
+    "Dlc": "Rebirth",
+    "Name": "Broken Ankh",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Lazarus",
+    "Requirement": "Satan",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 118,
+    "Dlc": "Rebirth",
+    "Name": "Store Credit",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Lazarus",
+    "Requirement": "QQQ",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 119,
+    "Dlc": "Rebirth",
+    "Name": "Pandora's Box",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Lazarus",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 120,
+    "Dlc": "Rebirth",
+    "Name": "Suicide King",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Suicide King (challenge #7)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 121,
+    "Dlc": "Rebirth",
+    "Name": "Blank Card",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Eden",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 122,
+    "Dlc": "Rebirth",
+    "Name": "Book of Secrets",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Eden",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 123,
+    "Dlc": "Rebirth",
+    "Name": "Mysterious Paper",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat ??? as Eden",
+    "Requirement": "QQQ",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 124,
+    "Dlc": "Rebirth",
+    "Name": "Mystery Sack",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Eden",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 125,
+    "Dlc": "Rebirth",
+    "Name": "Undefined",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Eden",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 126,
+    "Dlc": "Rebirth",
+    "Name": "Satanic Bible",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Azazel",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 127,
+    "Dlc": "Rebirth",
+    "Name": "Daemon's Tail",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Azazel",
+    "Requirement": "Satan",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 128,
+    "Dlc": "Rebirth",
+    "Name": "Abaddon",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Azazel",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 129,
+    "Dlc": "Rebirth",
+    "Name": "Isaac's Heart",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as The Lost",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 130,
+    "Dlc": "Rebirth",
+    "Name": "The Mind",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as The Lost",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 131,
+    "Dlc": "Rebirth",
+    "Name": "The Body",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as The Lost",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 132,
+    "Dlc": "Rebirth",
+    "Name": "The Soul",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as The Lost",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 133,
+    "Dlc": "Rebirth",
+    "Name": "The D100",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as The Lost",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 134,
+    "Dlc": "Rebirth",
+    "Name": "Blue Map",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 10 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 135,
+    "Dlc": "Rebirth",
+    "Name": "There's Options",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 50 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 136,
+    "Dlc": "Rebirth",
+    "Name": "Black Candle",
+    "Description": "Unlocked a new item",
+    "Unlock": "Donate 150 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 137,
+    "Dlc": "Rebirth",
+    "Name": "Red Candle",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 400 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 138,
+    "Dlc": "Rebirth",
+    "Name": "Stop Watch",
+    "Description": "Unlocked a new item",
+    "Unlock": "Donate 999 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 139,
+    "Dlc": "Rebirth",
+    "Name": "Wire Coat Hanger",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 4 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 140,
+    "Dlc": "Rebirth",
+    "Name": "Ipecac",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 6 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 141,
+    "Dlc": "Rebirth",
+    "Name": "Experimental Treatment",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 7 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 142,
+    "Dlc": "Rebirth",
+    "Name": "Krampus",
+    "Description": "Unlocked another miniboss!",
+    "Unlock": "Take 20 items from Devil Rooms",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 143,
+    "Dlc": "Rebirth",
+    "Name": "Head of Krampus",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Krampus",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 144,
+    "Dlc": "Rebirth",
+    "Name": "Super Meat Boy",
+    "Description": "Built him out of meat cubes.",
+    "Unlock": "Make a Super Meat Boy by picking up Cube of Meat 4 times in one run; see methods to create a Super Meat Boy",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 145,
+    "Dlc": "Rebirth",
+    "Name": "Butter Bean",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Destroy 100 poops",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 146,
+    "Dlc": "Rebirth",
+    "Name": "Little Baggy",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Collect 2 of either Roid Rage, The Virus, Growth Hormones, Experimental Treatment or Speed Ball",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 147,
+    "Dlc": "Rebirth",
+    "Name": "Blood Bag",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Use the Blood Donation Machine 30 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 148,
+    "Dlc": "Rebirth",
+    "Name": "The D4",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Blow up 30 Arcade machines",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 149,
+    "Dlc": "Rebirth",
+    "Name": "Missing Poster",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Isaac",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 150,
+    "Dlc": "Rebirth",
+    "Name": "Rubber Cement",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart 2 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 151,
+    "Dlc": "Rebirth",
+    "Name": "Store Upgrade lv.1",
+    "Description": "Donated 20 pennies to the shop.",
+    "Unlock": "Donate 20 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 152,
+    "Dlc": "Rebirth",
+    "Name": "Store Upgrade lv.2",
+    "Description": "Donated 100 pennies to the shop.",
+    "Unlock": "Donate 100 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 153,
+    "Dlc": "Rebirth",
+    "Name": "Store Upgrade lv.3",
+    "Description": "Donated 200 pennies to the shop.",
+    "Unlock": "Donate 200 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 154,
+    "Dlc": "Rebirth",
+    "Name": "Store Upgrade lv.4",
+    "Description": "Donated 600 pennies to the shop.",
+    "Unlock": "Donate 600 coins to the Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 155,
+    "Dlc": "Rebirth",
+    "Name": "Angels",
+    "Description": "They are waiting.",
+    "Unlock": "Complete chapter 6",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 156,
+    "Dlc": "Rebirth",
+    "Name": "Godhead",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Earn all 5 / 9 (except the cent sign for Ultra Greed) / 10 / 12 completion marks on Hard mode as The Lost",
+    "Requirement": "Completion",
+    "Reward": "Item"
+  },
+  {
+    "Id": 157,
+    "Dlc": "Rebirth",
+    "Name": "Darkness Falls",
+    "Description": "Unlocked Challenge #4.",
+    "Unlock": "Defeat Mom's Heart 11 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 158,
+    "Dlc": "Rebirth",
+    "Name": "The Tank",
+    "Description": "Unlocked Challenge #5.",
+    "Unlock": "Have 7 or more Red Heart containers at one time",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 159,
+    "Dlc": "Rebirth",
+    "Name": "Solar System",
+    "Description": "Unlocked Challenge #6.",
+    "Unlock": "Defeat Mom's Heart 3 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 160,
+    "Dlc": "Rebirth",
+    "Name": "Suicide King",
+    "Description": "Unlocked Challenge #7.",
+    "Unlock": "Defeat Mom's Heart 11 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 161,
+    "Dlc": "Rebirth",
+    "Name": "Cat Got Your Tongue",
+    "Description": "Unlocked Challenge #8.",
+    "Unlock": "Become Guppy",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 162,
+    "Dlc": "Rebirth",
+    "Name": "Demo Man",
+    "Description": "Unlocked Challenge #9.",
+    "Unlock": "Defeat Mom's Heart 9 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 163,
+    "Dlc": "Rebirth",
+    "Name": "Cursed!",
+    "Description": "Unlocked Challenge #10.",
+    "Unlock": "Have 7 or more Red Heart Containers at one time",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 164,
+    "Dlc": "Rebirth",
+    "Name": "Glass Cannon",
+    "Description": "Unlocked Challenge #11.",
+    "Unlock": "Beat The Family Man (challenge #19) and defeat Lokii",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 165,
+    "Dlc": "Rebirth",
+    "Name": "The Family Man",
+    "Description": "Unlocked Challenge #19.",
+    "Unlock": "Pick up both Key Pieces from the Angels in one run",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 166,
+    "Dlc": "Rebirth",
+    "Name": "Purist",
+    "Description": "Unlocked Challenge #20.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 167,
+    "Dlc": "Rebirth",
+    "Name": "Lost Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Isaac",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 168,
+    "Dlc": "Rebirth",
+    "Name": "Cute Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Magdalene",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 169,
+    "Dlc": "Rebirth",
+    "Name": "Crow Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Eve",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 170,
+    "Dlc": "Rebirth",
+    "Name": "Shadow Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Judas",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 171,
+    "Dlc": "Rebirth",
+    "Name": "Glass Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Cain",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 172,
+    "Dlc": "Rebirth",
+    "Name": "Wrapped Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Lazarus",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 173,
+    "Dlc": "Rebirth",
+    "Name": "Begotten Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Azazel",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 174,
+    "Dlc": "Rebirth",
+    "Name": "Dead Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as ???",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 175,
+    "Dlc": "Rebirth",
+    "Name": "-0- Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as The Lost",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 176,
+    "Dlc": "Rebirth",
+    "Name": "Glitch Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Eden",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 177,
+    "Dlc": "Rebirth",
+    "Name": "Fighting Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Samson",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 178,
+    "Dlc": "Rebirth",
+    "Name": "Lord of the Flies",
+    "Description": "You became Lord of the Flies.",
+    "Unlock": "Become Beelzebub",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 179,
+    "Dlc": "Afterbirth",
+    "Name": "Fart Baby",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Isaac",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 180,
+    "Dlc": "Afterbirth",
+    "Name": "Purity",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Magdalene",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 181,
+    "Dlc": "Afterbirth",
+    "Name": "D12",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Cain",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 182,
+    "Dlc": "Afterbirth",
+    "Name": "Betrayal",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Judas",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 183,
+    "Dlc": "Afterbirth",
+    "Name": "Fate's Reward",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as ???",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 184,
+    "Dlc": "Afterbirth",
+    "Name": "Athame",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Eve",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 185,
+    "Dlc": "Afterbirth",
+    "Name": "Blind Rage",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Samson",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 186,
+    "Dlc": "Afterbirth",
+    "Name": "Maw of the Void",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Azazel",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 187,
+    "Dlc": "Afterbirth",
+    "Name": "Empty Vessel",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Lazarus",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 188,
+    "Dlc": "Afterbirth",
+    "Name": "Eden's Blessing",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Eden",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 189,
+    "Dlc": "Afterbirth",
+    "Name": "Sworn Protector",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as The Lost",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 190,
+    "Dlc": "Afterbirth",
+    "Name": "Incubus",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Lilith",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 191,
+    "Dlc": "Afterbirth",
+    "Name": "Keeper now holds... A Penny!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Keeper",
+    "Requirement": "Hush",
+    "Reward": "Character"
+  },
+  {
+    "Id": 192,
+    "Dlc": "Afterbirth",
+    "Name": "Lil' Chest",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Isaac",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 193,
+    "Dlc": "Afterbirth",
+    "Name": "Censer",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Magdalene",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 194,
+    "Dlc": "Afterbirth",
+    "Name": "Evil Eye",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Cain",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 195,
+    "Dlc": "Afterbirth",
+    "Name": "My Shadow",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Judas",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 196,
+    "Dlc": "Afterbirth",
+    "Name": "Cracked Dice",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as ???",
+    "Requirement": "Greed",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 197,
+    "Dlc": "Afterbirth",
+    "Name": "Black Feather",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Eve",
+    "Requirement": "Greed",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 198,
+    "Dlc": "Afterbirth",
+    "Name": "Lusty Blood",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Samson",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 199,
+    "Dlc": "Afterbirth",
+    "Name": "Lilith",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Defeat Ultra Greed as Azazel",
+    "Requirement": "Greed",
+    "Reward": "Character"
+  },
+  {
+    "Id": 200,
+    "Dlc": "Afterbirth",
+    "Name": "Key Bum",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Lazarus",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 201,
+    "Dlc": "Afterbirth",
+    "Name": "GB Bug",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Eden",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 202,
+    "Dlc": "Afterbirth",
+    "Name": "Zodiac",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as The Lost",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 203,
+    "Dlc": "Afterbirth",
+    "Name": "Box of Friends",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Lilith",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 204,
+    "Dlc": "Afterbirth",
+    "Name": "Rib of Greed",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Keeper",
+    "Requirement": "Greed",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 205,
+    "Dlc": "Afterbirth",
+    "Name": "Cry Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Isaac",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 206,
+    "Dlc": "Afterbirth",
+    "Name": "Red Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Magdalene",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 207,
+    "Dlc": "Afterbirth",
+    "Name": "Green Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Cain",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 208,
+    "Dlc": "Afterbirth",
+    "Name": "Brown Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Judas",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 209,
+    "Dlc": "Afterbirth",
+    "Name": "Blue Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as ???",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 210,
+    "Dlc": "Afterbirth",
+    "Name": "Lil' Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Eve",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 211,
+    "Dlc": "Afterbirth",
+    "Name": "Rage Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Samson",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 212,
+    "Dlc": "Afterbirth",
+    "Name": "Black Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Azazel",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 213,
+    "Dlc": "Afterbirth",
+    "Name": "Long Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Lazarus",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 214,
+    "Dlc": "Afterbirth",
+    "Name": "Yellow Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Eden",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 215,
+    "Dlc": "Afterbirth",
+    "Name": "White Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as The Lost",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 216,
+    "Dlc": "Afterbirth",
+    "Name": "Big Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Lilith",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 217,
+    "Dlc": "Afterbirth",
+    "Name": "Noose Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Keeper",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 218,
+    "Dlc": "Afterbirth",
+    "Name": "Rune Bag",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Lilith",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 219,
+    "Dlc": "Afterbirth",
+    "Name": "Cambion Conception",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Lilith",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 220,
+    "Dlc": "Afterbirth",
+    "Name": "Serpent's Kiss",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Lilith",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 221,
+    "Dlc": "Afterbirth",
+    "Name": "Succubus",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Lilith",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 222,
+    "Dlc": "Afterbirth",
+    "Name": "Immaculate Conception",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Lilith",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 223,
+    "Dlc": "Afterbirth",
+    "Name": "Goat Head Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Lilith",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 224,
+    "Dlc": "Afterbirth",
+    "Name": "Gold Heart",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete XXXXXXXXL (challenge #21)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 225,
+    "Dlc": "Afterbirth",
+    "Name": "Get out of Jail Free Card",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete SPEED! (challenge #22)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 226,
+    "Dlc": "Afterbirth",
+    "Name": "Gold Bomb",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Blue Bomber (challenge #23)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 227,
+    "Dlc": "Afterbirth",
+    "Name": "2 new pills",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete PAY TO PLAY (challenge #24)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 228,
+    "Dlc": "Afterbirth",
+    "Name": "2 new pills",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Have a Heart (challenge #25)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 229,
+    "Dlc": "Afterbirth",
+    "Name": "Poker Chip",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete I RULE! (challenge #26)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 230,
+    "Dlc": "Afterbirth",
+    "Name": "Stud Finder",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete BRAINS! (challenge #27)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 231,
+    "Dlc": "Afterbirth",
+    "Name": "D8",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete PRIDE DAY! (challenge #28)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 232,
+    "Dlc": "Afterbirth",
+    "Name": "Kidney Stone",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Onan's Streak (challenge #29)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 233,
+    "Dlc": "Afterbirth",
+    "Name": "Blank Rune",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete The Guardian (challenge #30)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 234,
+    "Dlc": "Afterbirth",
+    "Name": "Blue Womb",
+    "Description": "Unlocked a hidden chapter.",
+    "Unlock": "Defeat Mom's Heart 10 times",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 235,
+    "Dlc": "Afterbirth",
+    "Name": "1001%",
+    "Description": "Nerd x 1000000",
+    "Unlock": "Unlock all of the secrets and endings, and collect every item in the game",
+    "Requirement": "Completion",
+    "Reward": "None"
+  },
+  {
+    "Id": 236,
+    "Dlc": "Afterbirth",
+    "Name": "Keeper holds Wooden Nickel",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Defeat Isaac as Keeper",
+    "Requirement": "Isaac",
+    "Reward": "Character"
+  },
+  {
+    "Id": 237,
+    "Dlc": "Afterbirth",
+    "Name": "Keeper holds Store Key",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Defeat Satan as Keeper",
+    "Requirement": "Satan",
+    "Reward": "Character"
+  },
+  {
+    "Id": 238,
+    "Dlc": "Afterbirth",
+    "Name": "Deep Pockets",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Keeper",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 239,
+    "Dlc": "Afterbirth",
+    "Name": "Karma",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Keeper",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 240,
+    "Dlc": "Afterbirth",
+    "Name": "Sticky Nickels",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Keeper",
+    "Requirement": "BossRush",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 241,
+    "Dlc": "Afterbirth",
+    "Name": "Super Greed Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mom's Heart on Hard mode as Keeper",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 242,
+    "Dlc": "Afterbirth",
+    "Name": "Lucky Pennies",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 1 coin to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 243,
+    "Dlc": "Afterbirth",
+    "Name": "Special Hanging Shopkeepers",
+    "Description": "Unlocked a secret.",
+    "Unlock": "Donate 10 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 244,
+    "Dlc": "Afterbirth",
+    "Name": "Wooden Nickel",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 30 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 245,
+    "Dlc": "Afterbirth",
+    "Name": "Cain holds Paperclip",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Donate 68 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 246,
+    "Dlc": "Afterbirth",
+    "Name": "Everything is Terrible 2!!!",
+    "Description": "Greed just got harder!",
+    "Unlock": "Donate 111 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 247,
+    "Dlc": "Afterbirth",
+    "Name": "Special Shopkeepers",
+    "Description": "Unlocked a secret.",
+    "Unlock": "Donate 234 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 248,
+    "Dlc": "Afterbirth",
+    "Name": "Eve now holds Razor Blade",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Donate 439 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 249,
+    "Dlc": "Afterbirth",
+    "Name": "Store Key",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Donate 666 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 250,
+    "Dlc": "Afterbirth",
+    "Name": "Lost holds Holy Mantle",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Donate 879 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 251,
+    "Dlc": "Afterbirth",
+    "Name": "Keeper",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Donate 1000 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 252,
+    "Dlc": "Afterbirth",
+    "Name": "Hive Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as ???",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 253,
+    "Dlc": "Afterbirth",
+    "Name": "Buddy Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Isaac",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 254,
+    "Dlc": "Afterbirth",
+    "Name": "Colorful Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Magdalene",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 255,
+    "Dlc": "Afterbirth",
+    "Name": "Whore Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Eve",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 256,
+    "Dlc": "Afterbirth",
+    "Name": "Cracked Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Eden",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 257,
+    "Dlc": "Afterbirth",
+    "Name": "Dripping Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Lazarus",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 258,
+    "Dlc": "Afterbirth",
+    "Name": "Blinding Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Use Blank Card while holding XIX - The Sun",
+    "Requirement": "Misc",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 259,
+    "Dlc": "Afterbirth",
+    "Name": "Sucky Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Azazel",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 260,
+    "Dlc": "Afterbirth",
+    "Name": "Dark Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Lilith",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 261,
+    "Dlc": "Afterbirth",
+    "Name": "Picky Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Cain",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 262,
+    "Dlc": "Afterbirth",
+    "Name": "Revenge Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Samson",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 263,
+    "Dlc": "Afterbirth",
+    "Name": "Belial Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Judas",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 264,
+    "Dlc": "Afterbirth",
+    "Name": "Sale Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Keeper",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 265,
+    "Dlc": "Afterbirth",
+    "Name": "XXXXXXXXL",
+    "Description": "Unlocked Challenge #21.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 266,
+    "Dlc": "Afterbirth",
+    "Name": "SPEED!",
+    "Description": "Unlocked Challenge #22.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 267,
+    "Dlc": "Afterbirth",
+    "Name": "Blue Bomber",
+    "Description": "Unlocked Challenge #23.",
+    "Unlock": "Destroy 10 Tinted Rocks and defeat Mom's Heart 11 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 268,
+    "Dlc": "Afterbirth",
+    "Name": "PAY TO PLAY",
+    "Description": "Unlocked Challenge #24.",
+    "Unlock": "Defeat Isaac as Cain",
+    "Requirement": "Isaac",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 269,
+    "Dlc": "Afterbirth",
+    "Name": "Have a Heart",
+    "Description": "Unlocked Challenge #25.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 270,
+    "Dlc": "Afterbirth",
+    "Name": "I RULE!",
+    "Description": "Unlocked Challenge #26.",
+    "Unlock": "Defeat ??? or The Lamb, and defeat Satan as Isaac",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 271,
+    "Dlc": "Afterbirth",
+    "Name": "BRAINS!",
+    "Description": "Unlocked Challenge #27.",
+    "Unlock": "Defeat Isaac 5 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 272,
+    "Dlc": "Afterbirth",
+    "Name": "PRIDE DAY!",
+    "Description": "Unlocked Challenge #28.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 273,
+    "Dlc": "Afterbirth",
+    "Name": "Onan's Streak",
+    "Description": "Unlocked Challenge #29.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 274,
+    "Dlc": "Afterbirth",
+    "Name": "The Guardian",
+    "Description": "Unlocked Challenge #30.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 275,
+    "Dlc": "Afterbirth",
+    "Name": "Generosity",
+    "Description": "If only everyone was as generous as you are...",
+    "Unlock": "Donate 999 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "None"
+  },
+  {
+    "Id": 276,
+    "Dlc": "Afterbirth",
+    "Name": "Mega",
+    "Description": "Unlocked...",
+    "Unlock": "Defeat Mega Satan as every character",
+    "Requirement": "Completion",
+    "Reward": "Item"
+  },
+  {
+    "Id": 277,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Backasswards",
+    "Description": "Unlocked a new challenge.",
+    "Unlock": "Defeat ??? or The Lamb",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 278,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Aprils fool",
+    "Description": "Unlocked a new challenge.",
+    "Unlock": "Defeat Mom",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 279,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Pokey Mans",
+    "Description": "Unlocked a new challenge.",
+    "Unlock": "Defeat Mom's Heart 11 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 280,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Ultra Hard",
+    "Description": "Unlocked a new challenge.",
+    "Unlock": "Defeat ??? or The Lamb. Possession of The Polaroid/ The Negative is required, barring getting to Dark Room through a Sacrifice Room.",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 281,
+    "Dlc": "AfterbirthPlus",
+    "Name": "PONG",
+    "Description": "Unlocked a new challenge.",
+    "Unlock": "Defeat Isaac 5 times",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 282,
+    "Dlc": "AfterbirthPlus",
+    "Name": "D Infinity",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Isaac",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 283,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Eucharist",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Magdalene",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 284,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Silver Dollar",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Cain",
+    "Requirement": "Delirium",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 285,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Shade",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Judas",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 286,
+    "Dlc": "AfterbirthPlus",
+    "Name": "King Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Delirium as ???",
+    "Requirement": "Delirium",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 287,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Bloody Crown",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Samson",
+    "Requirement": "Delirium",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 288,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Dull Razor",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Eve",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 289,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Eden's Soul",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Eden",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 290,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Dark Prince's Crown",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Azazel",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 291,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Compound Fracture",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Lazarus",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 292,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Euthanasia",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Lilith",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 293,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Holy Card",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as The Lost",
+    "Requirement": "Delirium",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 294,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Crooked Penny",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Keeper",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 295,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Void",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as Apollyon",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 296,
+    "Dlc": "AfterbirthPlus",
+    "Name": "D1",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Isaac",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 297,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Glyph of Balance",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Magdalene",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 298,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Sack of Sacks",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Cain",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 299,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Eye of Belial",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Judas",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 300,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Meconium",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as ???",
+    "Requirement": "Greedier",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 301,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Stem Cell",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Samson",
+    "Requirement": "Greedier",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 302,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Crow Heart",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Eve",
+    "Requirement": "Greedier",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 303,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Metronome",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Eden",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 304,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Bat Wing",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Azazel",
+    "Requirement": "Greedier",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 305,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Plan C",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Lazarus",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 306,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Duality",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Lilith",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 307,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Dad's Lost Coin",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as The Lost",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 308,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Eye of Greed",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Keeper",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 309,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Black Rune",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as Apollyon",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 310,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Locust of Wrath",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as Apollyon",
+    "Requirement": "Isaac",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 311,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Locust of Pestilence",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as Apollyon",
+    "Requirement": "Satan",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 312,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Locust of Famine",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as Apollyon",
+    "Requirement": "QQQ",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 313,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Locust of Death",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as Apollyon",
+    "Requirement": "TheLamb",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 314,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Locust of Conquest",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as Apollyon",
+    "Requirement": "BossRush",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 315,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Hushy",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as Apollyon",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 316,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Brown Nugget",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as Apollyon",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 317,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Mort Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as Apollyon",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 318,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Smelter",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as Apollyon",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Item"
+  },
+  {
+    "Id": 319,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Apollyon Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as Apollyon",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 320,
+    "Dlc": "AfterbirthPlus",
+    "Name": "New Area",
+    "Description": "Unlocked a new area.",
+    "Unlock": "Defeat Hush",
+    "Requirement": "Hush",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 321,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Once More with Feeling!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete a Victory Lap, defeating The Lamb",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 322,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Hat trick!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Get a 3-win streak",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 323,
+    "Dlc": "AfterbirthPlus",
+    "Name": "5 Nights at Mom's",
+    "Description": "Unlocked super special rocks.",
+    "Unlock": "Get a 5-win streak, using a different character for each win",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 324,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Sin collector",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Collect every entry in the Bestiary",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 325,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Dedication",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Participate in 31 daily challenges (they don't have to be consecutive; it will still count if you die in the first room)",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 326,
+    "Dlc": "AfterbirthPlus",
+    "Name": "ZIP!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb in under 20 minutes",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 327,
+    "Dlc": "AfterbirthPlus",
+    "Name": "It's the Key",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb without taking hearts, coins, and bombs through an entire run",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 328,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Mr. Resetter!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Reset 7 times in a row",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 329,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Living on the edge",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete a Chapter (floors I and II) after The Basement, start-to-finish, with only half a heart of health (can use The Lost)",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 330,
+    "Dlc": "AfterbirthPlus",
+    "Name": "U Broke It!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Obtain 50 items on a run (e.g., via two Steam Sale and Restock - Duplicate passives/familiars count towards the total, e.g., multiple Breakfast)",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 331,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Laz Bleeds More!",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Complete Backasswards (challenge #31)",
+    "Requirement": "Challenge",
+    "Reward": "Character"
+  },
+  {
+    "Id": 332,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Maggy Now Holds a Pill!",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Complete Aprils Fool (challenge #32)",
+    "Requirement": "Challenge",
+    "Reward": "Character"
+  },
+  {
+    "Id": 333,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Charged Key",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Pokey Mans (challenge #33)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 334,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Samson Feels Healthy!",
+    "Description": "Unlocked a new starting item.",
+    "Unlock": "Complete Ultra Hard (challenge #34)",
+    "Requirement": "Challenge",
+    "Reward": "Character"
+  },
+  {
+    "Id": 335,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Greed's Gullet",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Pong (challenge #35)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 336,
+    "Dlc": "AfterbirthPlus",
+    "Name": "The Marathon",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Get a 5-win streak in the daily challenges ( You must have a score of above 0 on the score screen)",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 337,
+    "Dlc": "AfterbirthPlus",
+    "Name": "RERUN",
+    "Description": "Unlocked the power of RERUN.",
+    "Unlock": "Complete 3 Victory Laps and start a 4th",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 338,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Delirious",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 339,
+    "Dlc": "AfterbirthPlus",
+    "Name": "1000000%",
+    "Description": "Just Stop!",
+    "Unlock": "Collect every item in the game, unlock all secrets and endings, and complete the bestiary",
+    "Requirement": "Completion",
+    "Reward": "None"
+  },
+  {
+    "Id": 340,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Apollyon",
+    "Description": "Unlocked a new character.",
+    "Unlock": "Defeat Mega Satan",
+    "Requirement": "MegaSatan",
+    "Reward": "Character"
+  },
+  {
+    "Id": 341,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Greedier!",
+    "Description": "New mode unlocked!",
+    "Unlock": "Donate 500 coins to the Greed Donation Machine",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 342,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Burning Basement",
+    "Description": "Alt stage to the basement.",
+    "Unlock": "Defeat Mom's Heart 11 times",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 343,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Flooded Caves",
+    "Description": "Alt stage to the caves.",
+    "Unlock": "Defeat It Lives 16 times",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 344,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Dank Depths",
+    "Description": "Alt stage to the depths.",
+    "Unlock": "Defeat It Lives 21 times",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 345,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Scarred Womb",
+    "Description": "Alt stage to the womb.",
+    "Unlock": "Defeat It Lives 30 times",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 346,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Something wicked this way comes!",
+    "Description": "Unlocked new bosses!",
+    "Unlock": "Defeat ??? as 3 different characters",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 347,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Something wicked this way comes+!",
+    "Description": "Unlocked even more bosses!",
+    "Unlock": "Defeat ??? as 6 different characters",
+    "Requirement": "Misc",
+    "Reward": "Boss"
+  },
+  {
+    "Id": 348,
+    "Dlc": "AfterbirthPlus",
+    "Name": "The gate is open!",
+    "Description": "Unlocked new enemies!",
+    "Unlock": "Defeat The Lamb",
+    "Requirement": "TheLamb",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 349,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Black Hole",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat 20 portals",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 350,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Mystery Gift",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Destroy 500 rocks",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 351,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Sprinkler",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat chapter 1 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 352,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Angry Fly",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Become Beelzebub",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 353,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Bozo",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Destroy 5 rainbow poops",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 354,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Broken Modem",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete 7 daily challenges (by touching the trophy at the end)",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 355,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Buddy in a Box",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Pick up 5 familiars in a single run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 356,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Fast Bombs",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Little Horn 20 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 357,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Lil Delirium",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium for the 1st time",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 358,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Hairpin",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Recharge using Lil' Batteries 20 times",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 359,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Wooden Cross",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Sleep in a bed",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 360,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Butter!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete 2 Victory Laps and start a 3rd",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 361,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Huge Growth",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Increase in size 5 times in a single run. Sources of increased size include \"One Makes you Larger\" pills, XI - Strength, and Magic Mushroom",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 362,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Ancient Recall",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Use cards and runes 20 times",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 363,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Era Walk",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Have both the Broken Watch and the Stop Watch in your collection",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 364,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Coupon",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Purchase from Shops, Devil deals or Black Markets 50 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 365,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Telekinesis",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat chapter 2 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 366,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Moving Box",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Use Pandora's Box in Dark Room",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 367,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Jumper Cables",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Pick up any 3 of the following items/trinkets in a single run: 9 Volt, The Battery, Car Battery, AAA Battery, Watch Battery",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 368,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Leprosy",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat chapter 3 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 369,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Technology Zero",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Pick up two technology items in one run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 370,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Filigree Feather",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Acquire both key pieces",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 371,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Mr. ME!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Open 20 Locked Chests",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 372,
+    "Dlc": "AfterbirthPlus",
+    "Name": "7 Seals",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat all 5 Harbingers",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 373,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Angelic Prism",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat an Angel 10 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 374,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Pop!",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Beat chapter 4 without taking damage",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 375,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Door Stop",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Blow up doors and Secret Room walls 50 times",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 376,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Death's List",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Take 25 Devil deals",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 377,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Haemolacria",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Acquire Blood Clot 10 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 378,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Lachryphagy",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Collect 10 \"tears up\" items or pills in one run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 379,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Schoolbag",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Enter every Shop from chapter 1 through chapter 3 in one run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 380,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Trisagion",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Take 25 items from Angel Rooms",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 381,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Extension Cord",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Have The Battery, 9 Volt, and Car Battery in your collection",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 382,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Flat Stone",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Acquire Rubber Cement 5 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 383,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Sacrificial Altar",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Take 50 Devil deals",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 384,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Lil Spewer",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Die to your own explosion from Ipecac, Bob's Rotten Head, or Horf! pill",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 385,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Blanket",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Sleep in 10 beds",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 386,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Marbles",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Use 5 Gulp! pills in one run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 387,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Mystery Egg",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Spawn three charmed enemies in the same room",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 388,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Rotten Penny",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Have 20 Blue Flies at the same time",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 389,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Baby-Bender",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Use I - The Magician or Telepathy for Dummies while already having homing tears",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 390,
+    "Dlc": "AfterbirthPlus",
+    "Name": "The Forgotten",
+    "Description": "Unlocked a new character.",
+    "Unlock": "It's complicated",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 391,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Bone Heart",
+    "Description": "Unlocked a new item.",
+    "Unlock": "It's complicated",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 392,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Marrow",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as The Forgotten",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Item"
+  },
+  {
+    "Id": 393,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Slipped Rib",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Isaac as The Forgotten",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 394,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Pointy Rib",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Satan as The Forgotten",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 395,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Jaw Bone",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat ??? as The Forgotten",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 396,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Brittle Bones",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat The Lamb as The Forgotten",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 397,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Divorce Papers",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Complete Boss Rush as The Forgotten",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 398,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Hallowed Ground",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Hush as The Forgotten",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 399,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Finger Bone",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greed as The Forgotten",
+    "Requirement": "Greed",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 400,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Dad's Ring",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Ultra Greedier as The Forgotten",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 401,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Book of the Dead",
+    "Description": "Unlocked a new item.",
+    "Unlock": "Defeat Delirium as The Forgotten",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 402,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Bone Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Earn all Hard mode completion marks as The Forgotten",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 403,
+    "Dlc": "AfterbirthPlus",
+    "Name": "Bound Baby",
+    "Description": "Unlocked a new co-player baby.",
+    "Unlock": "Defeat Mega Satan as The Forgotten",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 404,
+    "Dlc": "Repentance",
+    "Name": "Bethany",
+    "Description": "You unlocked \"Bethany\"",
+    "Unlock": "Defeat Mom's Heart/It Lives on hard mode as Lazarus, without dying",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 405,
+    "Dlc": "Repentance",
+    "Name": "Jacob and Esau",
+    "Description": "You unlocked \"Jacob&Esau\"",
+    "Unlock": "Defeat Mother",
+    "Requirement": "Mother",
+    "Reward": "Character"
+  },
+  {
+    "Id": 406,
+    "Dlc": "Repentance",
+    "Name": "The Planetarium",
+    "Description": "The stars are calling...",
+    "Unlock": "Collect three of the following in a single run: Signs of the Zodiac, Magic 8 Ball, Tiny Planet, and Crystal Ball",
+    "Requirement": "Misc",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 407,
+    "Dlc": "Repentance",
+    "Name": "A Secret Exit",
+    "Description": "You unlocked \"A Secret Exit\"",
+    "Unlock": "Defeat Hush 3 times",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 408,
+    "Dlc": "Repentance",
+    "Name": "Forgotten Lullaby",
+    "Description": "\"Forgotten Lullaby\" has appeared in the basement",
+    "Unlock": "Blow up The Siren's skull after defeating her",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 409,
+    "Dlc": "Repentance",
+    "Name": "Fruity Plum",
+    "Description": "\"Fruity Plum\" has appeared in the basement",
+    "Unlock": "Defeat Baby Plum 10 times",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 410,
+    "Dlc": "Repentance",
+    "Name": "Plum Flute",
+    "Description": "\"Plum Flute\" has appeared in the basement",
+    "Unlock": "Allow Baby Plum to escape instead of defeating her",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 411,
+    "Dlc": "Repentance",
+    "Name": "Rotten Heart",
+    "Description": "\"Rotten Heart\" has appeared in the basement",
+    "Unlock": "Enter the Corpse for the first time",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 412,
+    "Dlc": "Repentance",
+    "Name": "Dross",
+    "Description": "You unlocked \"Dross\"",
+    "Unlock": "Defeat all bosses in Downpour",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 413,
+    "Dlc": "Repentance",
+    "Name": "Ashpit",
+    "Description": "You unlocked \"Ashpit\"",
+    "Unlock": "Defeat all bosses in the Mines",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 414,
+    "Dlc": "Repentance",
+    "Name": "Gehenna",
+    "Description": "You unlocked \"Gehenna\"",
+    "Unlock": "Defeat all bosses in the Mausoleum",
+    "Requirement": "Misc",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 415,
+    "Dlc": "Repentance",
+    "Name": "Red Key",
+    "Description": "\"Red Key\" has appeared in the basement",
+    "Unlock": "Open the large version of Mom's Box in Home",
+    "Requirement": "Misc",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 416,
+    "Dlc": "Repentance",
+    "Name": "Wisp Baby",
+    "Description": "You unlocked \"Wisp Baby\"",
+    "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as Bethany",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 417,
+    "Dlc": "Repentance",
+    "Name": "Book of Virtues",
+    "Description": "\"Book of Virtues\" has appeared in the basement",
+    "Unlock": "Defeat Isaac as Bethany",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 418,
+    "Dlc": "Repentance",
+    "Name": "Urn of Souls",
+    "Description": "\"Urn of Souls\" has appeared in the basement",
+    "Unlock": "Defeat Satan as Bethany",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 419,
+    "Dlc": "Repentance",
+    "Name": "Blessed Penny",
+    "Description": "\"Blessed Penny\" has appeared in the basement",
+    "Unlock": "Defeat ??? as Bethany",
+    "Requirement": "QQQ",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 420,
+    "Dlc": "Repentance",
+    "Name": "Alabaster Box",
+    "Description": "\"Alabaster Box\" has appeared in the basement",
+    "Unlock": "Defeat The Lamb as Bethany",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 421,
+    "Dlc": "Repentance",
+    "Name": "Beth's Faith",
+    "Description": "\"Beth's Faith\" has appeared in the basement",
+    "Unlock": "Complete Boss Rush as Bethany",
+    "Requirement": "BossRush",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 422,
+    "Dlc": "Repentance",
+    "Name": "Soul Locket",
+    "Description": "\"Soul Locket\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greed as Bethany",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 423,
+    "Dlc": "Repentance",
+    "Name": "Divine Intervention",
+    "Description": "\"Divine Intervention\" has appeared in the basement",
+    "Unlock": "Defeat Hush as Bethany",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 424,
+    "Dlc": "Repentance",
+    "Name": "Vade Retro",
+    "Description": "\"Vade Retro\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Bethany",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 425,
+    "Dlc": "Repentance",
+    "Name": "Star of Bethlehem",
+    "Description": "\"Star of Bethlehem\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Bethany",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 426,
+    "Dlc": "Repentance",
+    "Name": "Hope Baby",
+    "Description": "You unlocked \"Hope Baby\"",
+    "Unlock": "Earn all Hard mode completion marks as Bethany",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 427,
+    "Dlc": "Repentance",
+    "Name": "Glowing Baby",
+    "Description": "You unlocked \"Glowing Baby\"",
+    "Unlock": "Defeat Mega Satan as Bethany",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 428,
+    "Dlc": "Repentance",
+    "Name": "Double Baby",
+    "Description": "You unlocked \"Double Baby\"",
+    "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as Jacob and Esau",
+    "Requirement": "MomsHeartHard",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 429,
+    "Dlc": "Repentance",
+    "Name": "The Stairway",
+    "Description": "\"The Stairway\" has appeared in the basement",
+    "Unlock": "Defeat Isaac as Jacob and Esau",
+    "Requirement": "Isaac",
+    "Reward": "Item"
+  },
+  {
+    "Id": 430,
+    "Dlc": "Repentance",
+    "Name": "Red Stew",
+    "Description": "\"Red Stew\" has appeared in the basement",
+    "Unlock": "Defeat Satan as Jacob and Esau",
+    "Requirement": "Satan",
+    "Reward": "Item"
+  },
+  {
+    "Id": 431,
+    "Dlc": "Repentance",
+    "Name": "Birthright",
+    "Description": "\"Birthright\" has appeared in the basement",
+    "Unlock": "Defeat ??? as Jacob and Esau",
+    "Requirement": "QQQ",
+    "Reward": "Item"
+  },
+  {
+    "Id": 432,
+    "Dlc": "Repentance",
+    "Name": "Damocles",
+    "Description": "\"Damocles\" has appeared in the basement",
+    "Unlock": "Defeat The Lamb as Jacob and Esau",
+    "Requirement": "TheLamb",
+    "Reward": "Item"
+  },
+  {
+    "Id": 433,
+    "Dlc": "Repentance",
+    "Name": "Rock Bottom",
+    "Description": "\"Rock Bottom\" has appeared in the basement",
+    "Unlock": "Complete Boss Rush as Jacob and Esau",
+    "Requirement": "BossRush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 434,
+    "Dlc": "Repentance",
+    "Name": "Inner Child",
+    "Description": "\"Inner Child\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greed as Jacob and Esau",
+    "Requirement": "Greed",
+    "Reward": "Item"
+  },
+  {
+    "Id": 435,
+    "Dlc": "Repentance",
+    "Name": "Vanishing Twin",
+    "Description": "\"Vanishing Twin\" has appeared in the basement",
+    "Unlock": "Defeat Hush as Jacob and Esau",
+    "Requirement": "Hush",
+    "Reward": "Item"
+  },
+  {
+    "Id": 436,
+    "Dlc": "Repentance",
+    "Name": "Genesis",
+    "Description": "\"Genesis\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Jacob and Esau",
+    "Requirement": "Greedier",
+    "Reward": "Item"
+  },
+  {
+    "Id": 437,
+    "Dlc": "Repentance",
+    "Name": "Suplex!",
+    "Description": "\"Suplex!\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Jacob and Esau",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 438,
+    "Dlc": "Repentance",
+    "Name": "Solomon's Baby",
+    "Description": "You unlocked \"Solomon's Baby\"",
+    "Unlock": "Earn all Hard mode completion marks as Jacob and Esau",
+    "Requirement": "Completion",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 439,
+    "Dlc": "Repentance",
+    "Name": "Illusion Baby",
+    "Description": "You unlocked \"Illusion Baby\"",
+    "Unlock": "Defeat Mega Satan as Jacob and Esau",
+    "Requirement": "MegaSatan",
+    "Reward": "Baby"
+  },
+  {
+    "Id": 440,
+    "Dlc": "Repentance",
+    "Name": "Meat Cleaver",
+    "Description": "\"Meat Cleaver\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Isaac",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 441,
+    "Dlc": "Repentance",
+    "Name": "Options?",
+    "Description": "\"Options?\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Isaac",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 442,
+    "Dlc": "Repentance",
+    "Name": "Yuck Heart",
+    "Description": "\"Yuck Heart\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Magdalene",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 443,
+    "Dlc": "Repentance",
+    "Name": "Candy Heart",
+    "Description": "\"Candy Heart\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Magdalene",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 444,
+    "Dlc": "Repentance",
+    "Name": "Guppy's Eye",
+    "Description": "\"Guppy's Eye\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Cain",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 445,
+    "Dlc": "Repentance",
+    "Name": "A Pound of Flesh",
+    "Description": "\"A Pound of Flesh\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Cain",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 446,
+    "Dlc": "Repentance",
+    "Name": "Akeldama",
+    "Description": "\"Akeldama\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Judas",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 447,
+    "Dlc": "Repentance",
+    "Name": "Redemption",
+    "Description": "\"Redemption\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Judas",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 448,
+    "Dlc": "Repentance",
+    "Name": "Eternal D6",
+    "Description": "\"Eternal D6\" has appeared in the basement",
+    "Unlock": "Defeat Mother as ???",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 449,
+    "Dlc": "Repentance",
+    "Name": "Montezuma's Revenge",
+    "Description": "\"Montezuma's Revenge\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as ???",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 450,
+    "Dlc": "Repentance",
+    "Name": "Bird Cage",
+    "Description": "\"Bird Cage\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Eve",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 451,
+    "Dlc": "Repentance",
+    "Name": "Cracked Orb",
+    "Description": "\"Cracked Orb\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Eve",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 452,
+    "Dlc": "Repentance",
+    "Name": "Bloody Gust",
+    "Description": "\"Bloody Gust\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Samson",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 453,
+    "Dlc": "Repentance",
+    "Name": "Empty Heart",
+    "Description": "\"Empty Heart\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Samson",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 454,
+    "Dlc": "Repentance",
+    "Name": "Devil's Crown",
+    "Description": "\"Devil's Crown\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Azazel",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 455,
+    "Dlc": "Repentance",
+    "Name": "Lil Abaddon",
+    "Description": "\"Lil Abaddon\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Azazel",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 456,
+    "Dlc": "Repentance",
+    "Name": "Tinytoma",
+    "Description": "\"Tinytoma\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Lazarus",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 457,
+    "Dlc": "Repentance",
+    "Name": "Astral Projection",
+    "Description": "\"Astral Projection\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Lazarus",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 458,
+    "Dlc": "Repentance",
+    "Name": "M",
+    "Description": "\"'M\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Eden",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 459,
+    "Dlc": "Repentance",
+    "Name": "Everything Jar",
+    "Description": "\"Everything Jar\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Eden",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 460,
+    "Dlc": "Repentance",
+    "Name": "Lost Soul",
+    "Description": "\"Lost Soul\" has appeared in the basement",
+    "Unlock": "Defeat Mother as The Lost",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 461,
+    "Dlc": "Repentance",
+    "Name": "Hungry Soul",
+    "Description": "\"Hungry Soul\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as The Lost",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 462,
+    "Dlc": "Repentance",
+    "Name": "Blood Puppy",
+    "Description": "\"Blood Puppy\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Lilith",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 463,
+    "Dlc": "Repentance",
+    "Name": "C Section",
+    "Description": "\"C Section\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Lilith",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 464,
+    "Dlc": "Repentance",
+    "Name": "Keeper's Sack",
+    "Description": "\"Keeper's Sack\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Keeper",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 465,
+    "Dlc": "Repentance",
+    "Name": "Keeper's Box",
+    "Description": "\"Keeper's Box\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Keeper",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 466,
+    "Dlc": "Repentance",
+    "Name": "Lil Portal",
+    "Description": "\"Lil Portal\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Apollyon",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 467,
+    "Dlc": "Repentance",
+    "Name": "Worm Friend",
+    "Description": "\"Worm Friend\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Apollyon",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 468,
+    "Dlc": "Repentance",
+    "Name": "Bone Spurs",
+    "Description": "\"Bone Spurs\" has appeared in the basement",
+    "Unlock": "Defeat Mother as The Forgotten",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 469,
+    "Dlc": "Repentance",
+    "Name": "Spirit Shackles",
+    "Description": "\"Spirit Shackles\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as The Forgotten",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 470,
+    "Dlc": "Repentance",
+    "Name": "Revelation",
+    "Description": "\"Revelation\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Bethany",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 471,
+    "Dlc": "Repentance",
+    "Name": "Jar of Wisps",
+    "Description": "\"Jar of Wisps\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Bethany",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 472,
+    "Dlc": "Repentance",
+    "Name": "Magic Skin",
+    "Description": "\"Magic Skin\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Jacob and Esau",
+    "Requirement": "Mother",
+    "Reward": "Item"
+  },
+  {
+    "Id": 473,
+    "Dlc": "Repentance",
+    "Name": "Friend Finder",
+    "Description": "\"Friend Finder\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Jacob and Esau",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 474,
+    "Dlc": "Repentance",
+    "Name": "The Broken",
+    "Description": "You unlocked \"Isaac\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Isaac",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 475,
+    "Dlc": "Repentance",
+    "Name": "The Dauntless",
+    "Description": "You unlocked \"Magdalene\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Magdalene",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 476,
+    "Dlc": "Repentance",
+    "Name": "The Hoarder",
+    "Description": "You unlocked \"Cain\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Cain",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 477,
+    "Dlc": "Repentance",
+    "Name": "The Deceiver",
+    "Description": "You unlocked \"Judas\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Judas",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 478,
+    "Dlc": "Repentance",
+    "Name": "The Soiled",
+    "Description": "You unlocked \"???\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as ???",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 479,
+    "Dlc": "Repentance",
+    "Name": "The Curdled",
+    "Description": "You unlocked \"Eve\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Eve",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 480,
+    "Dlc": "Repentance",
+    "Name": "The Savage",
+    "Description": "You unlocked \"Samson\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Samson",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 481,
+    "Dlc": "Repentance",
+    "Name": "The Benighted",
+    "Description": "You unlocked \"Azazel\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Azazel",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 482,
+    "Dlc": "Repentance",
+    "Name": "The Enigma",
+    "Description": "You unlocked \"Lazarus\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Lazarus",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 483,
+    "Dlc": "Repentance",
+    "Name": "The Capricious",
+    "Description": "You unlocked \"Eden\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Eden",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 484,
+    "Dlc": "Repentance",
+    "Name": "The Baleful",
+    "Description": "You unlocked \"The Lost\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as The Lost",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 485,
+    "Dlc": "Repentance",
+    "Name": "The Harlot",
+    "Description": "You unlocked \"Lilith\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Lilith",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 486,
+    "Dlc": "Repentance",
+    "Name": "The Miser",
+    "Description": "You unlocked \"Keeper\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Keeper",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 487,
+    "Dlc": "Repentance",
+    "Name": "The Empty",
+    "Description": "You unlocked \"Apollyon\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Apollyon",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 488,
+    "Dlc": "Repentance",
+    "Name": "The Fettered",
+    "Description": "You unlocked \"The Forgotten\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as The Forgotten",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 489,
+    "Dlc": "Repentance",
+    "Name": "The Zealot",
+    "Description": "You unlocked \"Bethany\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Bethany",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 490,
+    "Dlc": "Repentance",
+    "Name": "The Deserter",
+    "Description": "You unlocked \"Jacob\"",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Jacob and Esau",
+    "Requirement": "Misc",
+    "Reward": "Character"
+  },
+  {
+    "Id": 491,
+    "Dlc": "Repentance",
+    "Name": "Glitched Crown",
+    "Description": "\"Glitched Crown\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Isaac",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 492,
+    "Dlc": "Repentance",
+    "Name": "Belly Jelly",
+    "Description": "\"Belly Jelly\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Magdalene",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 493,
+    "Dlc": "Repentance",
+    "Name": "Blue Key",
+    "Description": "\"Blue Key\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Cain",
+    "Requirement": "TheBeast",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 494,
+    "Dlc": "Repentance",
+    "Name": "Sanguine Bond",
+    "Description": "\"Sanguine Bond\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Judas",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 495,
+    "Dlc": "Repentance",
+    "Name": "The Swarm",
+    "Description": "\"The Swarm\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted ???",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 496,
+    "Dlc": "Repentance",
+    "Name": "Heartbreak",
+    "Description": "\"Heartbreak\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Eve",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 497,
+    "Dlc": "Repentance",
+    "Name": "Larynx",
+    "Description": "\"Larynx\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Samson",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 498,
+    "Dlc": "Repentance",
+    "Name": "Azazel's Rage",
+    "Description": "\"Azazel's Rage\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Azazel",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 499,
+    "Dlc": "Repentance",
+    "Name": "Salvation",
+    "Description": "\"Salvation\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Lazarus",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 500,
+    "Dlc": "Repentance",
+    "Name": "TMTRAINER",
+    "Description": "\"TMTRAINER\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Eden",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 501,
+    "Dlc": "Repentance",
+    "Name": "Sacred Orb",
+    "Description": "\"Sacred Orb\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Lost",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 502,
+    "Dlc": "Repentance",
+    "Name": "Twisted Pair",
+    "Description": "\"Twisted Pair\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Lilith",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 503,
+    "Dlc": "Repentance",
+    "Name": "Strawman",
+    "Description": "\"Strawman\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Keeper",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 504,
+    "Dlc": "Repentance",
+    "Name": "Echo Chamber",
+    "Description": "\"Echo Chamber\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Apollyon",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 505,
+    "Dlc": "Repentance",
+    "Name": "Isaac's Tomb",
+    "Description": "\"Isaac's Tomb\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Forgotten",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 506,
+    "Dlc": "Repentance",
+    "Name": "Vengeful Spirit",
+    "Description": "\"Vengeful Spirit\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Bethany",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 507,
+    "Dlc": "Repentance",
+    "Name": "Esau Jr.",
+    "Description": "\"Esau Jr.\" has appeared in the basement",
+    "Unlock": "Defeat The Beast as Tainted Jacob",
+    "Requirement": "TheBeast",
+    "Reward": "Item"
+  },
+  {
+    "Id": 508,
+    "Dlc": "Repentance",
+    "Name": "Bloody Mary",
+    "Description": "You unlocked Challenge #37 Bloody Mary",
+    "Unlock": "Defeat Mom's Heart/It Lives on hard mode as Lazarus, without dying, defeat Mom's Heart 11 times and unlock Blood Bag",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 509,
+    "Dlc": "Repentance",
+    "Name": "Baptism by Fire",
+    "Description": "You unlocked Challenge #38 Baptism by Fire",
+    "Unlock": "Defeat Satan as Bethany, defeat Mom's Heart 11 times and unlock Maggy's Faith",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 510,
+    "Dlc": "Repentance",
+    "Name": "Isaac's Awakening",
+    "Description": "You unlocked Challenge #39 Isaac's Awakening",
+    "Unlock": "Defeat Mother",
+    "Requirement": "Mother",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 511,
+    "Dlc": "Repentance",
+    "Name": "Seeing Double",
+    "Description": "You unlocked Challenge #40 Seeing Double",
+    "Unlock": "Defeat Mother",
+    "Requirement": "Mother",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 512,
+    "Dlc": "Repentance",
+    "Name": "Pica Run",
+    "Description": "You unlocked Challenge #41 Pica Run",
+    "Unlock": "Defeat Mom's Heart 11 times and Unlock Marbles",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 513,
+    "Dlc": "Repentance",
+    "Name": "Hot Potato",
+    "Description": "You unlocked Challenge #42 Hot Potato",
+    "Unlock": "Use the Red Key or Cracked Key in Home as The Forgotten",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 514,
+    "Dlc": "Repentance",
+    "Name": "Cantripped!",
+    "Description": "You unlocked Challenge #43 Cantripped!",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Cain",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 515,
+    "Dlc": "Repentance",
+    "Name": "Red Redemption",
+    "Description": "You unlocked Challenge #44",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Jacob and Esau",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 516,
+    "Dlc": "Repentance",
+    "Name": "DELETE THIS",
+    "Description": "You unlocked Challenge #45",
+    "Unlock": "Use the Red Key or Cracked Key in Home as Eden",
+    "Requirement": "Misc",
+    "Reward": "Challenge"
+  },
+  {
+    "Id": 517,
+    "Dlc": "Repentance",
+    "Name": "Dirty Mind",
+    "Description": "\"Dirty Mind\" has appeared in the basement",
+    "Unlock": "Complete Scat Man (challenge #36)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 518,
+    "Dlc": "Repentance",
+    "Name": "Sigil of Baphomet",
+    "Description": "\"Sigil of Baphomet\" has appeared in the basement",
+    "Unlock": "Complete Bloody Mary (challenge #37)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 519,
+    "Dlc": "Repentance",
+    "Name": "Purgatory",
+    "Description": "\"Purgatory\" has appeared in the basement",
+    "Unlock": "Complete Baptism by Fire (challenge #38)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 520,
+    "Dlc": "Repentance",
+    "Name": "Spirit Sword",
+    "Description": "\"Spirit Sword\" has appeared in the basement",
+    "Unlock": "Complete Isaac's Awakening (challenge #39)",
+    "Requirement": "Challenge",
+    "Reward": "Item"
+  },
+  {
+    "Id": 521,
+    "Dlc": "Repentance",
+    "Name": "Broken Glasses",
+    "Description": "\"Broken Glasses\" has appeared in the basement",
+    "Unlock": "Complete Seeing Double (challenge #40)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 522,
+    "Dlc": "Repentance",
+    "Name": "Ice Cube",
+    "Description": "\"Ice Cube\" has appeared in the basement",
+    "Unlock": "Complete Pica Run (challenge #41)",
+    "Requirement": "Challenge",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 523,
+    "Dlc": "Repentance",
+    "Name": "Charged Penny",
+    "Description": "for a small fee...\"",
+    "Unlock": "Donate to several Battery Bums until they pay out with an item",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 524,
+    "Dlc": "Repentance",
+    "Name": "The Fool",
+    "Description": "\"The Fool\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Lost",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 525,
+    "Dlc": "Repentance",
+    "Name": "The Magician",
+    "Description": "\"The Magician\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Judas",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 526,
+    "Dlc": "Repentance",
+    "Name": "The High Priestess",
+    "Description": "\"The High Priestess\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Lilith",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 527,
+    "Dlc": "Repentance",
+    "Name": "The Empress",
+    "Description": "\"The Empress\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Eve",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 528,
+    "Dlc": "Repentance",
+    "Name": "The Emperor",
+    "Description": "\"The Emperor\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted ???",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 529,
+    "Dlc": "Repentance",
+    "Name": "The Hierophant",
+    "Description": "\"The Hierophant\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Bethany",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 530,
+    "Dlc": "Repentance",
+    "Name": "The Lovers",
+    "Description": "\"The Lovers\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Magdalene",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 531,
+    "Dlc": "Repentance",
+    "Name": "The Chariot",
+    "Description": "\"The Chariot\" has appeared in the basement",
+    "Unlock": "Complete Hot Potato (challenge #42)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 532,
+    "Dlc": "Repentance",
+    "Name": "Justice",
+    "Description": "\"Justice\" has appeared in the basement",
+    "Unlock": "Complete Cantripped (challenge #43)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 533,
+    "Dlc": "Repentance",
+    "Name": "The Hermit",
+    "Description": "\"The Hermit\" has appeared in the basement",
+    "Unlock": "Complete Red Redemption (challenge #44)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 534,
+    "Dlc": "Repentance",
+    "Name": "Wheel of Fortune",
+    "Description": "\"Wheel of Fortune\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Cain",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 535,
+    "Dlc": "Repentance",
+    "Name": "Strength",
+    "Description": "\"Strength\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Samson",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 536,
+    "Dlc": "Repentance",
+    "Name": "The Hanged Man",
+    "Description": "\"The Hanged Man\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Keeper",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 537,
+    "Dlc": "Repentance",
+    "Name": "Death",
+    "Description": "\"Death\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Forgotten",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 538,
+    "Dlc": "Repentance",
+    "Name": "Temperance",
+    "Description": "\"Temperance\" has appeared in the basement",
+    "Unlock": "Complete DELETE THIS (challenge #45)",
+    "Requirement": "Challenge",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 539,
+    "Dlc": "Repentance",
+    "Name": "The Devil",
+    "Description": "\"The Devil\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Azazel",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 540,
+    "Dlc": "Repentance",
+    "Name": "The Tower",
+    "Description": "\"The Tower\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Apollyon",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 541,
+    "Dlc": "Repentance",
+    "Name": "The Stars",
+    "Description": "\"The Stars\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Isaac",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 542,
+    "Dlc": "Repentance",
+    "Name": "The Sun and the Moon",
+    "Description": "\"The Sun & The Moon\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Jacob",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 543,
+    "Dlc": "Repentance",
+    "Name": "Judgement",
+    "Description": "\"Judgement\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Lazarus",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 544,
+    "Dlc": "Repentance",
+    "Name": "The World",
+    "Description": "\"The World\" has appeared in the basement",
+    "Unlock": "Defeat Ultra Greedier as Tainted Eden",
+    "Requirement": "Greedier",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 545,
+    "Dlc": "Repentance",
+    "Name": "Old Capacitor",
+    "Description": "\"Old Capacitor\" has appeared in the basement",
+    "Unlock": "Kill 10 Battery Bums",
+    "Requirement": "Misc",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 546,
+    "Dlc": "Repentance",
+    "Name": "Brimstone Bombs",
+    "Description": "\"Brimstone Bombs\" has appeared in the basement",
+    "Unlock": "Kill Hornfel before he can escape after breaking his minecart",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 547,
+    "Dlc": "Repentance",
+    "Name": "Mega Mush",
+    "Description": "\"Mega Mush\" has appeared in the basement",
+    "Unlock": "Earn all Hard mode completion marks for all non-tainted characters",
+    "Requirement": "Completion",
+    "Reward": "Item"
+  },
+  {
+    "Id": 548,
+    "Dlc": "Repentance",
+    "Name": "Mom's Lock",
+    "Description": "\"Mom's Lock\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Isaac",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 549,
+    "Dlc": "Repentance",
+    "Name": "Dice Bag",
+    "Description": "\"Dice Bag\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Isaac",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 550,
+    "Dlc": "Repentance",
+    "Name": "Holy Crown",
+    "Description": "\"Holy Crown\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Magdalene",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 551,
+    "Dlc": "Repentance",
+    "Name": "Mother's Kiss",
+    "Description": "\"Mother's Kiss\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Magdalene",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 552,
+    "Dlc": "Repentance",
+    "Name": "Gilded Key",
+    "Description": "\"Gilded Key\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Cain",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 553,
+    "Dlc": "Repentance",
+    "Name": "Lucky Sack",
+    "Description": "\"Lucky Sack\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Cain",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 554,
+    "Dlc": "Repentance",
+    "Name": "Your Soul",
+    "Description": "\"Your Soul\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Judas",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 555,
+    "Dlc": "Repentance",
+    "Name": "Number Magnet",
+    "Description": "\"Number Magnet\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Judas",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 556,
+    "Dlc": "Repentance",
+    "Name": "Dingle Berry",
+    "Description": "\"Dingle Berry\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted ???",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 557,
+    "Dlc": "Repentance",
+    "Name": "Ring Cap",
+    "Description": "\"Ring Cap\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted ???",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 558,
+    "Dlc": "Repentance",
+    "Name": "Strange Key",
+    "Description": "\"Strange Key\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Eve",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 559,
+    "Dlc": "Repentance",
+    "Name": "Lil Clot",
+    "Description": "\"Lil Clot\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Eve",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 560,
+    "Dlc": "Repentance",
+    "Name": "Temporary Tattoo",
+    "Description": "\"Temporary Tattoo\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Samson",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 561,
+    "Dlc": "Repentance",
+    "Name": "Swallowed M80",
+    "Description": "\"Swallowed M80\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Samson",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 562,
+    "Dlc": "Repentance",
+    "Name": "Wicked Crown",
+    "Description": "\"Wicked Crown\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Azazel",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 563,
+    "Dlc": "Repentance",
+    "Name": "Azazel's Stump",
+    "Description": "Azazel's Stump\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Azazel",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 564,
+    "Dlc": "Repentance",
+    "Name": "Torn Pocket",
+    "Description": "\"Torn Pocket\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Lazarus",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 565,
+    "Dlc": "Repentance",
+    "Name": "Torn Card",
+    "Description": "\"Torn Card\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Lazarus",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 566,
+    "Dlc": "Repentance",
+    "Name": "Nuh Uh!",
+    "Description": "\"Nuh Uh!\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Eden",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 567,
+    "Dlc": "Repentance",
+    "Name": "Modeling Clay",
+    "Description": "\"Modeling Clay\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Eden",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 568,
+    "Dlc": "Repentance",
+    "Name": "Kid's Drawing",
+    "Description": "\"Kid's Drawing\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Lost",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 569,
+    "Dlc": "Repentance",
+    "Name": "Crystal Key",
+    "Description": "\"Crystal Key\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Lost",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 570,
+    "Dlc": "Repentance",
+    "Name": "The Twins",
+    "Description": "\"The Twins\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Lilith",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 571,
+    "Dlc": "Repentance",
+    "Name": "Adoption Papers",
+    "Description": "\"Adoption Papers\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Lilith",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 572,
+    "Dlc": "Repentance",
+    "Name": "Keeper's Bargain",
+    "Description": "\"Keeper's Bargain\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Keeper",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 573,
+    "Dlc": "Repentance",
+    "Name": "Cursed Penny",
+    "Description": "\"Cursed Penny\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Keeper",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 574,
+    "Dlc": "Repentance",
+    "Name": "Cricket Leg",
+    "Description": "\"Cricket Leg\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Apollyon",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 575,
+    "Dlc": "Repentance",
+    "Name": "Apollyon's Best Friend",
+    "Description": "\"Apollyon's Best Friend\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Apollyon",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 576,
+    "Dlc": "Repentance",
+    "Name": "Polished Bone",
+    "Description": "\"Polished Bone\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Forgotten",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 577,
+    "Dlc": "Repentance",
+    "Name": "Hollow Heart",
+    "Description": "\"Hollow Heart\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Forgotten",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 578,
+    "Dlc": "Repentance",
+    "Name": "Expansion Pack",
+    "Description": "\"Expansion Pack\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Bethany",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 579,
+    "Dlc": "Repentance",
+    "Name": "Beth's Essence",
+    "Description": "\"Beth's Essence\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Bethany",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 580,
+    "Dlc": "Repentance",
+    "Name": "RC Remote",
+    "Description": "\"RC Remote\" has appeared in the basement",
+    "Unlock": "Defeat Isaac, ???, Satan and The Lamb as Tainted Jacob",
+    "Requirement": "Completion",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 581,
+    "Dlc": "Repentance",
+    "Name": "Found Soul",
+    "Description": "\"Found Soul\" has appeared in the basement",
+    "Unlock": "Defeat Mother as Tainted Jacob",
+    "Requirement": "Mother",
+    "Reward": "Trinket"
+  },
+  {
+    "Id": 582,
+    "Dlc": "Repentance",
+    "Name": "Member Card",
+    "Description": "\"Member Card\" has appeared in the basement",
+    "Unlock": "Spend 40+ coins in a single Shop",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 583,
+    "Dlc": "Repentance",
+    "Name": "Golden Razor",
+    "Description": "\"Golden Razor\" has appeared in the basement",
+    "Unlock": "Obtain 99 coins. Then spend every single one of them in a single run",
+    "Requirement": "Misc",
+    "Reward": "Item"
+  },
+  {
+    "Id": 584,
+    "Dlc": "Repentance",
+    "Name": "Spindown Dice",
+    "Description": "\"Spindown Dice\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Isaac",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 585,
+    "Dlc": "Repentance",
+    "Name": "Hypercoagulation",
+    "Description": "\"Hypercoagulation\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Magdalene",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 586,
+    "Dlc": "Repentance",
+    "Name": "Bag of Crafting",
+    "Description": "\"Bag of Crafting\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Cain",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 587,
+    "Dlc": "Repentance",
+    "Name": "Dark Arts",
+    "Description": "\"Dark Arts\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Judas",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 588,
+    "Dlc": "Repentance",
+    "Name": "IBS",
+    "Description": "\"IBS\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted ???",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 589,
+    "Dlc": "Repentance",
+    "Name": "Sumptorium",
+    "Description": "\"Sumptorium\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Eve",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 590,
+    "Dlc": "Repentance",
+    "Name": "Berserk!",
+    "Description": "\"Berserk!\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Samson",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 591,
+    "Dlc": "Repentance",
+    "Name": "Hemoptysis",
+    "Description": "\"Hemoptysis\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Azazel",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 592,
+    "Dlc": "Repentance",
+    "Name": "Flip",
+    "Description": "\"Flip\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Lazarus",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 593,
+    "Dlc": "Repentance",
+    "Name": "Corrupted Data",
+    "Description": "\"Corrupted Data\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Eden",
+    "Requirement": "Delirium",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 594,
+    "Dlc": "Repentance",
+    "Name": "Ghost Bombs",
+    "Description": "\"Ghost Bombs\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Lost",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 595,
+    "Dlc": "Repentance",
+    "Name": "Gello",
+    "Description": "\"Gello\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Lilith",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 596,
+    "Dlc": "Repentance",
+    "Name": "Keeper's Kin",
+    "Description": "\"Keeper's Kin\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Keeper",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 597,
+    "Dlc": "Repentance",
+    "Name": "Abyss",
+    "Description": "\"Abyss\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Apollyon",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 598,
+    "Dlc": "Repentance",
+    "Name": "Decap Attack",
+    "Description": "\"Decap Attack\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Forgotten",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 599,
+    "Dlc": "Repentance",
+    "Name": "Lemegeton",
+    "Description": "\"Lemegeton\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Bethany",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 600,
+    "Dlc": "Repentance",
+    "Name": "Anima Sola",
+    "Description": "\"Anima Sola\" has appeared in the basement",
+    "Unlock": "Defeat Delirium as Tainted Jacob",
+    "Requirement": "Delirium",
+    "Reward": "Item"
+  },
+  {
+    "Id": 601,
+    "Dlc": "Repentance",
+    "Name": "Mega Chest",
+    "Description": "\"Mega Chest\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Isaac",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 602,
+    "Dlc": "Repentance",
+    "Name": "Queen of Hearts",
+    "Description": "\"Queen of Hearts\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Magdalene",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 603,
+    "Dlc": "Repentance",
+    "Name": "Gold Pill",
+    "Description": "\"Gold Pill\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Cain",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 604,
+    "Dlc": "Repentance",
+    "Name": "Black Sack",
+    "Description": "\"Black Sack\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Judas",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 605,
+    "Dlc": "Repentance",
+    "Name": "Charming Poop",
+    "Description": "\"Charming Poop\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted ???",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 606,
+    "Dlc": "Repentance",
+    "Name": "Horse Pill",
+    "Description": "\"Horse Pill\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Eve",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 607,
+    "Dlc": "Repentance",
+    "Name": "Crane Game",
+    "Description": "\"Crane Game\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Samson",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 608,
+    "Dlc": "Repentance",
+    "Name": "Hell Game",
+    "Description": "\"Hell Game\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Azazel",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 609,
+    "Dlc": "Repentance",
+    "Name": "Wooden Chest",
+    "Description": "\"Wooden Chest\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Lazarus",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 610,
+    "Dlc": "Repentance",
+    "Name": "Wild Card",
+    "Description": "\"Wild Card\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Eden",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 611,
+    "Dlc": "Repentance",
+    "Name": "Haunted Chest",
+    "Description": "\"Haunted Chest\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Lost",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 612,
+    "Dlc": "Repentance",
+    "Name": "Fool's Gold",
+    "Description": "\"Fool's Gold\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Lilith",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 613,
+    "Dlc": "Repentance",
+    "Name": "Golden Penny",
+    "Description": "\"Golden Penny\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Keeper",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 614,
+    "Dlc": "Repentance",
+    "Name": "Rotten Beggar",
+    "Description": "\"Rotten Beggar\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Apollyon",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 615,
+    "Dlc": "Repentance",
+    "Name": "Golden Battery",
+    "Description": "\"Golden Battery\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Forgotten",
+    "Requirement": "MegaSatan",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 616,
+    "Dlc": "Repentance",
+    "Name": "Confessional",
+    "Description": "\"Confessional\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Bethany",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 617,
+    "Dlc": "Repentance",
+    "Name": "Golden Trinket",
+    "Description": "\"Golden Trinket\" has appeared in the basement",
+    "Unlock": "Defeat Mega Satan as Tainted Jacob",
+    "Requirement": "MegaSatan",
+    "Reward": "Misc"
+  },
+  {
+    "Id": 618,
+    "Dlc": "Repentance",
+    "Name": "Soul of Isaac",
+    "Description": "\"Soul of Isaac\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Isaac",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 619,
+    "Dlc": "Repentance",
+    "Name": "Soul of Magdalene",
+    "Description": "\"Soul of Magdalene\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Magdalene",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 620,
+    "Dlc": "Repentance",
+    "Name": "Soul of Cain",
+    "Description": "\"Soul of Cain\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Cain",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 621,
+    "Dlc": "Repentance",
+    "Name": "Soul of Judas",
+    "Description": "\"Soul of Judas\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Judas",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 622,
+    "Dlc": "Repentance",
+    "Name": "Soul of ???",
+    "Description": "\"Soul of ???\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted ???",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 623,
+    "Dlc": "Repentance",
+    "Name": "Soul of Eve",
+    "Description": "\"Soul of Eve\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Eve",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 624,
+    "Dlc": "Repentance",
+    "Name": "Soul of Samson",
+    "Description": "\"Soul of Samson\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Samson",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 625,
+    "Dlc": "Repentance",
+    "Name": "Soul of Azazel",
+    "Description": "\"Soul of Azazel\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Azazel",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 626,
+    "Dlc": "Repentance",
+    "Name": "Soul of Lazarus",
+    "Description": "\"Soul of Lazarus\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Lazarus",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 627,
+    "Dlc": "Repentance",
+    "Name": "Soul of Eden",
+    "Description": "\"Soul of Eden\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Eden",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 628,
+    "Dlc": "Repentance",
+    "Name": "Soul of the Lost",
+    "Description": "\"Soul of the Lost\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Lost",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 629,
+    "Dlc": "Repentance",
+    "Name": "Soul of Lilith",
+    "Description": "\"Soul of Lilith\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Lilith",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 630,
+    "Dlc": "Repentance",
+    "Name": "Soul of the Keeper",
+    "Description": "\"Soul of the Keeper\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Keeper",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 631,
+    "Dlc": "Repentance",
+    "Name": "Soul of Apollyon",
+    "Description": "\"Soul of Apollyon\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Apollyon",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 632,
+    "Dlc": "Repentance",
+    "Name": "Soul of the Forgotten",
+    "Description": "\"Soul of the Forgotten\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Forgotten",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 633,
+    "Dlc": "Repentance",
+    "Name": "Soul of Bethany",
+    "Description": "\"Soul of Bethany\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Bethany",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 634,
+    "Dlc": "Repentance",
+    "Name": "Soul of Jacob and Esau",
+    "Description": "\"Soul of Jacob\" has appeared in the basement",
+    "Unlock": "Defeat Hush and Boss Rush as Tainted Jacob",
+    "Requirement": "Completion",
+    "Reward": "Consumable"
+  },
+  {
+    "Id": 635,
+    "Dlc": "Repentance",
+    "Name": "A Strange Door",
+    "Description": "\"A Strange Door\" has appeared in the depths",
+    "Unlock": "Defeat Mother",
+    "Requirement": "Mother",
+    "Reward": "Stage"
+  },
+  {
+    "Id": 636,
+    "Dlc": "Repentance",
+    "Name": "Death Certificate",
+    "Description": "\"Death Certificate\" has appeared in the basement",
+    "Unlock": "Earn all Hard mode completion marks for all characters, including tainted ones",
+    "Requirement": "Completion",
+    "Reward": "Item"
+  },
+  {
+    "Id": 637,
+    "Dlc": "Repentance",
+    "Name": "Dead God",
+    "Description": "",
+    "Unlock": "Unlock all the other achievements and collect every item in the game",
+    "Requirement": "Completion",
+    "Reward": "None"
+  }
+]
