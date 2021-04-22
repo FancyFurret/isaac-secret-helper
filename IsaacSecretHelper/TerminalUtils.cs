@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace IsaacSecretHelper
 {
@@ -9,11 +10,14 @@ namespace IsaacSecretHelper
         public static void WriteTable<T>(IEnumerable<T> objects, int resizeCol, params Func<T, string>[] columns)
         {
             var widths = GetColumnMaxWidths(objects, columns);
+            var lines = new StringBuilder();
             foreach (var obj in objects)
-                WriteRow(obj, columns, widths);
+                WriteRow(lines, obj, columns, widths);
+            
+            Console.WriteLine(lines.ToString());
         }
 
-        private static void WriteRow<T>(T obj, Func<T, string>[] columns, int[] widths)
+        private static void WriteRow<T>(StringBuilder lines, T obj, Func<T, string>[] columns, int[] widths)
         {
             var texts = columns.Select(c => c(obj)).ToArray();
             var rows = texts.Select((t, i) => Math.Ceiling((float) t.Length / widths[i])).Max();
@@ -23,30 +27,30 @@ namespace IsaacSecretHelper
                 for (var column = 0; column < columns.Length; column++)
                 {
                     var text = columns[column](obj);
-                    WriteCell(row, column, text, widths);
+                    WriteCell(lines, row, column, text, widths);
                 }
 
-                Console.WriteLine();
+                lines.AppendLine();
             }
         }
 
-        private static void WriteCell(int row, int column, string text, int[] widths)
+        private static void WriteCell(StringBuilder output, int row, int column, string text, int[] widths)
         {
             for (var i = 0; i < widths[column]; i++)
             {
                 var index = row * widths[column] + i;
-                Console.Write(index < text.Length ? text[index] : ' ');
+                output.Append(index < text.Length ? text[index] : ' ');
             }
 
             if (column < widths.Length - 1)
-                Console.Write(" | ");
+                output.Append(" | ");
         }
 
         private static int[] GetColumnWidths<T>(IEnumerable<T> objects, int resizeCol, Func<T, string>[] columns)
         {
             var maxWidths = GetColumnMaxWidths(objects, columns);
             var widths = new List<int>();
-            var remainingWidth = Console.WindowWidth;
+            var remainingWidth = Console.WindowWidth - 1;
 
             for (var i = 0; i < columns.Length; i++)
             {
