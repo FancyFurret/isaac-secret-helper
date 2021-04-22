@@ -8,7 +8,7 @@ namespace IsaacSecretHelper
     {
         public static void WriteTable<T>(IEnumerable<T> objects, int resizeCol, params Func<T, string>[] columns)
         {
-            var widths = GetColumnWidths(objects, resizeCol, columns);
+            var widths = GetColumnMaxWidths(objects, columns);
             foreach (var obj in objects)
                 WriteRow(obj, columns, widths);
         }
@@ -44,7 +44,7 @@ namespace IsaacSecretHelper
 
         private static int[] GetColumnWidths<T>(IEnumerable<T> objects, int resizeCol, Func<T, string>[] columns)
         {
-            var maxWidths = columns.Select(column => objects.Max(o => column(o).Length)).ToArray();
+            var maxWidths = GetColumnMaxWidths(objects, columns);
             var widths = new List<int>();
             var remainingWidth = Console.WindowWidth;
 
@@ -65,6 +65,11 @@ namespace IsaacSecretHelper
 
             widths[resizeCol] = Math.Min(maxWidths[resizeCol], remainingWidth);
             return widths.ToArray();
+        }
+
+        private static int[] GetColumnMaxWidths<T>(IEnumerable<T> objects, Func<T, string>[] columns)
+        {
+            return columns.Select(column => objects.Max(o => column(o).Length)).ToArray();
         }
     }
 }
