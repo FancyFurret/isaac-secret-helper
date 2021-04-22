@@ -36,11 +36,12 @@ namespace IsaacSecretHelper
 
         private static void WriteCell(StringBuilder output, int row, int column, string text, int[] widths)
         {
-            for (var i = 0; i < widths[column]; i++)
-            {
-                var index = row * widths[column] + i;
-                output.Append(index < text.Length ? text[index] : ' ');
-            }
+            var width = widths[column];
+            var index = row * width;
+            var textLength = Math.Clamp(text.Length - index, 0, width);
+            if (index < text.Length)
+                output.Append(text.Substring(index, textLength));
+            output.Append(' ', width - textLength);
 
             if (column < widths.Length - 1)
                 output.Append(" | ");
