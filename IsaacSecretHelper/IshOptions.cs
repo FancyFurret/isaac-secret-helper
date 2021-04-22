@@ -7,10 +7,14 @@ namespace IsaacSecretHelper
     {
         [Option('s', "save", Default = 1, HelpText = "Which save file should be used? (1, 2, or 3)")]
         public int SaveNumber { get; init; }
+        
+        [Option('f', "save-file", Required = false,
+            HelpText = "Path to a specific save file. Overrides --saves-folder and --save")]
+        public string SaveFile { get; init; }
 
-        [Option('p', "path", Default = "%UserProfile%\\Documents\\My Games\\Binding of Isaac Repentance",
+        [Option('d', "saves-folder", Default = "%UserProfile%\\Documents\\My Games\\Binding of Isaac Repentance",
             HelpText = "Folder where your saves are located")]
-        public string SavePath { get; init; }
+        public string SavesFolder { get; init; }
 
         [Option('u', "unlocked", Required = false, HelpText = "Show already unlocked achievements")]
         public bool ShowUnlocked { get; init; }
