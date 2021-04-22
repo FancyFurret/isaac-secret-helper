@@ -71,7 +71,8 @@ namespace IsaacSecretHelper
 
         private string FindSaveFile()
         {
-            return Directory.GetFiles(Environment.ExpandEnvironmentVariables(_options.SavePath), $"*persistentgamedata{_options.SaveNumber}.dat")
+            return Directory.GetFiles(Environment.ExpandEnvironmentVariables(_options.SavePath),
+                    $"*persistentgamedata{_options.SaveNumber}.dat")
                 .OrderByDescending(File.GetLastWriteTime)
                 .FirstOrDefault();
         }
@@ -92,9 +93,15 @@ namespace IsaacSecretHelper
             TerminalUtils.WriteTable(
                 secrets,
                 4,
-                s => $"{(s.Unlocked ? "X" : "-")}",
+                s => $"{(s.Unlocked ? " X" : " -")}",
                 s => s.Id.ToString(),
-                s => s.Dlc.ToString(),
+                s => s.Dlc switch
+                {
+                    Isaac.Dlc.Afterbirth => "AB",
+                    Isaac.Dlc.AfterbirthPlus => "AB+",
+                    Isaac.Dlc.Repentance => "Rep",
+                    _ => ""
+                },
                 s => s.Name,
                 s => s.Unlock,
                 s => s.Description
