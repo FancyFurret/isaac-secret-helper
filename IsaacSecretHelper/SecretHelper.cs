@@ -32,7 +32,7 @@ namespace IsaacSecretHelper
 
         private bool ValidateOptions()
         {
-            if (!Directory.Exists(_options.SavePath))
+            if (!Directory.Exists(Environment.ExpandEnvironmentVariables(_options.SavePath)))
                 Console.WriteLine(
                     "The provided save path doesn't exist! Try setting a different one using the --path option");
             else if (_options.SaveNumber < 1 || _options.SaveNumber > 3)
@@ -71,7 +71,7 @@ namespace IsaacSecretHelper
 
         private string FindSaveFile()
         {
-            return Directory.GetFiles(_options.SavePath, $"*persistentgamedata{_options.SaveNumber}.dat")
+            return Directory.GetFiles(Environment.ExpandEnvironmentVariables(_options.SavePath), $"*persistentgamedata{_options.SaveNumber}.dat")
                 .OrderByDescending(File.GetLastWriteTime)
                 .FirstOrDefault();
         }
