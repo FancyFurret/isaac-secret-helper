@@ -9,7 +9,7 @@ namespace IsaacSecretHelper
     {
         public static void WriteTable<T>(IEnumerable<T> objects, int resizeCol, params Func<T, string>[] columns)
         {
-            var widths = GetColumnMaxWidths(objects, columns);
+            var widths = GetColumnWidths(objects, resizeCol, columns);
             var lines = new StringBuilder();
             foreach (var obj in objects)
                 WriteRow(lines, obj, columns, widths);
