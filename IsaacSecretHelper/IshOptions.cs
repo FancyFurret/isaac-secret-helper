@@ -8,7 +8,7 @@ namespace IsaacSecretHelper
         [Option('s', "save", Default = 1, HelpText = "Which save file should be used? (1, 2, or 3)")]
         public int SaveNumber { get; init; }
 
-        [Option('p', "path", Default = "%UserProfile%/My Games/Binding of Isaac Repentance",
+        [Option('p', "path", Default = "%UserProfile%\\Documents\\My Games\\Binding of Isaac Repentance",
             HelpText = "Folder where your saves are located")]
         public string SavePath { get; init; }
 
