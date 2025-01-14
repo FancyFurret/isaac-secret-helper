@@ -5731,5 +5731,29 @@
     "Unlock": "Unlock all the other achievements and collect every item in the game",
     "Requirement": "Completion",
     "Reward": "None"
+  },
+  {
+    "Id": 638,
+    "Name": "Play Online",
+    "Description": "Play an online match",
+    "Unlock": "Playing an Online Match",
+    "Requirement": "Completion",
+    "Reward": "None"
+  },
+  {
+    "Id": 639,
+    "Name": "Win Online",
+    "Description": "Win an online match",
+    "Unlock": "Winning an Online Match",
+    "Requirement": "Completion",
+    "Reward": "None"
+  },
+  {
+    "Id": 640,
+    "Name": "Win Dailly Online",
+    "Description": "Win an online Daily Run",
+    "Unlock": "Winning an online Daily Run",
+    "Requirement": "Completion",
+    "Reward": "None"
   }
 ]

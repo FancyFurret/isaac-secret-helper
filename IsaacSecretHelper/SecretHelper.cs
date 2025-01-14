@@ -105,6 +105,7 @@ namespace IsaacSecretHelper
                     Isaac.Dlc.Afterbirth => "AB",
                     Isaac.Dlc.AfterbirthPlus => "AB+",
                     Isaac.Dlc.Repentance => "Rep",
+                    Isaac.Dlc.RepentancePlus => "Rp+",
                     _ => ""
                 },
                 s => s.Name,

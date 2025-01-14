@@ -10,7 +10,8 @@ namespace Basement
             Rebirth,
             Afterbirth,
             AfterbirthPlus,
-            Repentance
+            Repentance,
+            RepentancePlus
         }
     }
 }
