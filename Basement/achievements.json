@@ -5750,7 +5750,7 @@
   },
   {
     "Id": 640,
-    "Name": "Win Dailly Online",
+    "Name": "Win Daily Online",
     "Description": "Win an online Daily Run",
     "Unlock": "Winning an online Daily Run",
     "Requirement": "Completion",
